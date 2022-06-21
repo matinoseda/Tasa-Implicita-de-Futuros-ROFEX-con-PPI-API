@@ -1,9 +1,18 @@
-# Tasa-Impl-cita-de-Futuros-ROFEX-con-PPI-API
-Gráfico de la tasa implícita de futuros de acciones del mercado PPI. Utilizando la API de PPI y graficando con Plotly.
+# Tasa Implícita de Futuros ROFEX con PPI API
 
+Gráfico de la tasa implícita de futuros de acciones del mercado PPI.
+  
++ Utiliza la API de PPI para obtener la marketdata.
 
-![](blue%20AL30.png)
-![](blue%20msft.png)
-![](Foto%20actualizador.png)
++ Utiliza la librería Plotly para construir los gráficos
+
+Tabla con tasas:
+![](tabla.png)
+
+Gráfico general:
+![](gral.png)
+
+Gráfico de las tasas implícitas anualizadas
+![](1.png)
 
 
